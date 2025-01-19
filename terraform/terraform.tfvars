@@ -1,5 +1,1 @@
-subscription_id = "0f519205-ea0a-4bce-a035-3cbb51074fe9"
-# rgname                 = "alttaskrg"
-# location               = "UK South"
-# service_principal_name = "terraformPrincipal"
-# keyvault_name          = "AltKeyvault0234"
+subscription_id = 
